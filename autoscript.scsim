@@ -1,0 +1,124 @@
+cd coke_mach_tb
+echo "----- init -----" > asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 1 
+echo "----- 1 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 11 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 21 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 31 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 41 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 51 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 61 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 71 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 81 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 91 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 101 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 111 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 121 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 131 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 141 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 151 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 161 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 171 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 181 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 191 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 201 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 211 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 221 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 231 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 241 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 251 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 261 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 271 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 281 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+
+run 10
+echo "----- 291 ns -----" >> asgn_6-team06.txt
+ls -v clk coin_in reset paid change >> asgn_6-team06.txt
+

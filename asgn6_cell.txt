@@ -1,0 +1,24 @@
+ 
+****************************************
+Report : cell
+Design : coke_mach_tb
+Version: Z-2007.03-SP2
+Date   : Tue Apr 14 15:40:47 2020
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+   so - sizing only
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+I_0                       GTECH_NOT       gtech           0.000000  so, u
+uut                       coke_mach                       237.000000
+                                                                    h, n
+--------------------------------------------------------------------------------
+Total 2 cells                                             237.000000
+1

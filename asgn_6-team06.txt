@@ -1,0 +1,186 @@
+----- init -----
+CLK             '0'
+COIN_IN         X"?"
+RESET           '0'
+PAID            'U'
+CHANGE          X"??"
+----- 1 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"B5"
+----- 11 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"B5"
+----- 21 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"B5"
+----- 31 ns -----
+CLK             '1'
+COIN_IN         X"4"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 41 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 51 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 61 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 71 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 81 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"CE"
+----- 91 ns -----
+CLK             '1'
+COIN_IN         X"2"
+RESET           '0'
+PAID            '0'
+CHANGE          X"D8"
+----- 101 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"D8"
+----- 111 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"D8"
+----- 121 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"D8"
+----- 131 ns -----
+CLK             '1'
+COIN_IN         X"1"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 141 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 151 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 161 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 171 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 181 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"DD"
+----- 191 ns -----
+CLK             '1'
+COIN_IN         X"4"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 201 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 211 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 221 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 231 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 241 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '0'
+CHANGE          X"F6"
+----- 251 ns -----
+CLK             '1'
+COIN_IN         X"4"
+RESET           '0'
+PAID            '1'
+CHANGE          X"0F"
+----- 261 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '1'
+CHANGE          X"0F"
+----- 271 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '1'
+CHANGE          X"0F"
+----- 281 ns -----
+CLK             '0'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '1'
+CHANGE          X"0F"
+----- 291 ns -----
+CLK             '1'
+COIN_IN         X"0"
+RESET           '0'
+PAID            '1'
+CHANGE          X"0F"

@@ -1,0 +1,10 @@
+vhdlan -nc -event \
+	decoder.vhdl \
+	full_adder.vhdl \
+	full_subtractor.vhdl \
+	n_bit_adder.vhdl \
+	n_bit_subtractor.vhdl \
+	coke_mach.vhdl \
+	coke_mach_tb.vhdl
+
+scs coke_mach_tb_cfg

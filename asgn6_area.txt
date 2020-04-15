@@ -1,0 +1,27 @@
+ 
+****************************************
+Report : area
+Design : coke_mach_tb
+Version: Z-2007.03-SP2
+Date   : Tue Apr 14 15:41:31 2020
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /home2/synopsys/synthesis/libraries/syn/gtech.db)
+    class (File: /home2/synopsys/synthesis/libraries/syn/class.db)
+
+Number of ports:                9
+Number of nets:                11
+Number of cells:                2
+Number of references:           2
+
+Combinational area:        181.000000
+Noncombinational area:      56.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:           237.000000
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1

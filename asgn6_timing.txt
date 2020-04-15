@@ -1,0 +1,90 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : coke_mach_tb
+Version: Z-2007.03-SP2
+Date   : Tue Apr 14 15:41:11 2020
+****************************************
+
+Operating Conditions: 
+Wire Load Model Mode: top
+
+  Startpoint: uut/sum_reg_reg_0_inst
+              (rising edge-triggered flip-flop)
+  Endpoint: paid (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  uut/sum_reg_reg_0_inst/CP (FD1)                         0.00       0.00 r
+  uut/sum_reg_reg_0_inst/Q (FD1)                          1.68       1.68 f
+  uut/coin_subtractor/x[0] (n_bit_subtractor)             0.00       1.68 f
+  uut/coin_subtractor/subtractor_i_0/x (full_subtractor_7)
+                                                          0.00       1.68 f
+  uut/coin_subtractor/subtractor_i_0/U5/Z (AN2)           0.82       2.51 f
+  uut/coin_subtractor/subtractor_i_0/U3/Z (AO4)           1.18       3.69 r
+  uut/coin_subtractor/subtractor_i_0/b_out (full_subtractor_7)
+                                                          0.00       3.69 r
+  uut/coin_subtractor/subtractor_i_1/b_in (full_subtractor_6)
+                                                          0.00       3.69 r
+  uut/coin_subtractor/subtractor_i_1/U6/Z (IV)            0.33       4.01 f
+  uut/coin_subtractor/subtractor_i_1/U5/Z (AN2)           0.82       4.84 f
+  uut/coin_subtractor/subtractor_i_1/U3/Z (AO4)           1.18       6.02 r
+  uut/coin_subtractor/subtractor_i_1/b_out (full_subtractor_6)
+                                                          0.00       6.02 r
+  uut/coin_subtractor/subtractor_i_2/b_in (full_subtractor_5)
+                                                          0.00       6.02 r
+  uut/coin_subtractor/subtractor_i_2/U6/Z (IV)            0.33       6.34 f
+  uut/coin_subtractor/subtractor_i_2/U5/Z (AN2)           0.82       7.17 f
+  uut/coin_subtractor/subtractor_i_2/U3/Z (AO4)           1.18       8.35 r
+  uut/coin_subtractor/subtractor_i_2/b_out (full_subtractor_5)
+                                                          0.00       8.35 r
+  uut/coin_subtractor/subtractor_i_3/b_in (full_subtractor_4)
+                                                          0.00       8.35 r
+  uut/coin_subtractor/subtractor_i_3/U6/Z (IV)            0.33       8.67 f
+  uut/coin_subtractor/subtractor_i_3/U5/Z (AN2)           0.82       9.50 f
+  uut/coin_subtractor/subtractor_i_3/U3/Z (AO4)           1.18      10.68 r
+  uut/coin_subtractor/subtractor_i_3/b_out (full_subtractor_4)
+                                                          0.00      10.68 r
+  uut/coin_subtractor/subtractor_i_4/b_in (full_subtractor_3)
+                                                          0.00      10.68 r
+  uut/coin_subtractor/subtractor_i_4/U6/Z (IV)            0.33      11.00 f
+  uut/coin_subtractor/subtractor_i_4/U5/Z (AN2)           0.82      11.83 f
+  uut/coin_subtractor/subtractor_i_4/U3/Z (AO4)           1.18      13.01 r
+  uut/coin_subtractor/subtractor_i_4/b_out (full_subtractor_3)
+                                                          0.00      13.01 r
+  uut/coin_subtractor/subtractor_i_5/b_in (full_subtractor_2)
+                                                          0.00      13.01 r
+  uut/coin_subtractor/subtractor_i_5/U6/Z (IV)            0.33      13.33 f
+  uut/coin_subtractor/subtractor_i_5/U5/Z (AN2)           0.82      14.16 f
+  uut/coin_subtractor/subtractor_i_5/U3/Z (AO4)           1.18      15.34 r
+  uut/coin_subtractor/subtractor_i_5/b_out (full_subtractor_2)
+                                                          0.00      15.34 r
+  uut/coin_subtractor/subtractor_i_6/b_in (full_subtractor_1)
+                                                          0.00      15.34 r
+  uut/coin_subtractor/subtractor_i_6/U6/Z (IV)            0.33      15.67 f
+  uut/coin_subtractor/subtractor_i_6/U5/Z (AN2)           0.82      16.49 f
+  uut/coin_subtractor/subtractor_i_6/U3/Z (AO4)           1.18      17.67 r
+  uut/coin_subtractor/subtractor_i_6/b_out (full_subtractor_1)
+                                                          0.00      17.67 r
+  uut/coin_subtractor/subtractor_i_7/b_in (full_subtractor_0)
+                                                          0.00      17.67 r
+  uut/coin_subtractor/subtractor_i_7/U6/Z (IV)            0.33      18.00 f
+  uut/coin_subtractor/subtractor_i_7/U5/Z (AN2)           0.82      18.82 f
+  uut/coin_subtractor/subtractor_i_7/U3/Z (AO4)           1.18      20.00 r
+  uut/coin_subtractor/subtractor_i_7/b_out (full_subtractor_0)
+                                                          0.00      20.00 r
+  uut/coin_subtractor/b_out (n_bit_subtractor)            0.00      20.00 r
+  uut/U7/Z (IV)                                           0.15      20.15 f
+  uut/paid (coke_mach)                                    0.00      20.15 f
+  paid (out)                                              0.00      20.15 f
+  data arrival time                                                 20.15
+  --------------------------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
